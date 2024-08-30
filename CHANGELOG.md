@@ -13,6 +13,9 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
+# 3.0.0
+
+Complete re-write of frontend application in Vue 3
 
 # 2.0.2
 This release includes the following:
